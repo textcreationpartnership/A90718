@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A late letter from the citty of Florence, vvrittem by Signor Fabricio Pisani a counsellor of the Rota, touching these present distempers of England, vvherein hee, with some of the prime statesmen in Florence give their judgments which way the said distempers may be totally compos'd. VVith som signal remarks upon the nativity of Charls the second, &amp;c.</title>
+            <author>Pisani, Fabricio.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90718</idno>
+            <idno type="STC">Wing P2283</idno>
+            <idno type="STC">Thomason E1013_2</idno>
+            <idno type="STC">ESTC R208018</idno>
+            <idno type="EEBO-CITATION">99867024</idno>
+            <idno type="PROQUEST">99867024</idno>
+            <idno type="VID">119314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119314)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A late letter from the citty of Florence, vvrittem by Signor Fabricio Pisani a counsellor of the Rota, touching these present distempers of England, vvherein hee, with some of the prime statesmen in Florence give their judgments which way the said distempers may be totally compos'd. VVith som signal remarks upon the nativity of Charls the second, &amp;c.</title>
+                  <author>Pisani, Fabricio.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 4. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Italy --  Politics and government --  1559-1789 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119314:1"/>
+            <!-- PDF PAGE 72 -->
+            <pb facs="tcp:119314:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>A late LETTER From the Citty of FLORENCE, VVRITTEN By Signor <hi>Fabricio Piſani</hi> a Coun<g ref="char:EOLhyphen"/>ſellor of the <hi>Rota,</hi> Touching theſe preſent Diſtempers OF ENGLAND, VVherein Hee, with ſome of the prime States<g ref="char:EOLhyphen"/>men in <hi>Florence</hi> give their Judgments which way the ſaid Diſtempers may be totally Compos'd.</p>
+            <p>VVith ſom ſignal Remarks upon the Nativity of CHARLS the ſecond, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119314:2"/>
+            <!-- PDF PAGE 73 -->
+            <pb n="3" facs="tcp:119314:2"/>
+            <!-- PDF PAGE 73 -->
+            <head>A Letter ſent from the City of <hi>Florence</hi> Written by a Great Counſellor there, touching the preſent Diſtempers of <hi>England,</hi> wherein <hi>Hee,</hi> with ſom of the Prime Stateſmen in <hi>Florence</hi> paſſe their Judgements which is the only way to compoſe the ſaid Diſtempers.</head>
+            <opener>
+               <salute>My Honored, and moſt Endeared Patron.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is no ſmall diminution to my for<g ref="char:EOLhyphen"/>mer happineſſe that I have not re<g ref="char:EOLhyphen"/>ceiv'd your commands any time theſe two months, which makes me lodg within me certain appre<g ref="char:EOLhyphen"/>henſions of fear that ſom diſaſter might befall you in thoſe new Diſtractions, there<g ref="char:EOLhyphen"/>fore I pray be pleaſed to pull this thorn out of my thoughts as ſpeedily as it may ſtand with your conveniency.</p>
+            <p>We are not here ſo barren of Intelligence, but we have weekly advice of your preſent Confuſi<g ref="char:EOLhyphen"/>ons, and truly the ſevereſt ſort of ſpeculative per<g ref="char:EOLhyphen"/>ſons here who uſe to obſerve the method of <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi>
+               <pb n="4" facs="tcp:119314:3"/>
+               <!-- PDF PAGE 74 -->do not ſtick to ſay, that the hand of Heaven doth viſibly ſtirr therein, and that thoſe Diſtracti<g ref="char:EOLhyphen"/>ons in <hi>Army, State,</hi> and <hi>City</hi> are apparent Judge<g ref="char:EOLhyphen"/>ments from above, for if one revolve the Stories of former Times as I have done many (but you more) he will find that it hath bin allwayes an in<g ref="char:EOLhyphen"/>evitable Fate which uſeth to hang over all popular Inſurrections to end in confuſion and diſorders a<g ref="char:EOLhyphen"/>mong the chief Actors themſelfs at laſt; And we have had divers examples thereof here among us, which hath caus'd us to be ſo long in quietneſſe and peace.</p>
+            <p>But truly Sir, give me leave to tell you that your Nation hath loſt much of their <hi>Repute</hi> abroad all the World over <hi>in ſtatu quo nunc;</hi> Som do <hi>laugh</hi> at you; Others do <hi>ſcorn, and hate you;</hi> And ſom do <hi>pitty and comiſerat</hi> you.</p>
+            <p>They who <hi>laugh</hi> at you, think you are no better than <hi>Madmen</hi> having ſtrange Magots in your brains bred out of the fat of ſo long wanton plenty, and peace.</p>
+            <p>They who <hi>ſcorn and hate</hi> you, do it for your Sa<g ref="char:EOLhyphen"/>crilege, your horrendous Sacrileges, the like whereof was never committed on Earth ſince <hi>Chri<g ref="char:EOLhyphen"/>ſtianity</hi> had firſt a hole to put her in.</p>
+            <p>They who <hi>pitty</hi> you are few, and We are of the nomber of Them, as well in the common ſenſe of <hi>Humanity,</hi> as for the advantages, and improve<g ref="char:EOLhyphen"/>ment of Wealth which this <hi>State</hi> hath receiv'd by your Trading at <hi>Ligorne,</hi> for that Town doth ac<g ref="char:EOLhyphen"/>knowledge her proſperity, and that ſhe is arrived
+<pb n="5" facs="tcp:119314:3"/>
+               <!-- PDF PAGE 74 -->to this flouriſhing Eſtate of Riches, of Buildings and bravety by the correſpondence ſhe hath had this latter Age with <hi>England</hi> in point of <hi>Commerce,</hi> which yet we find doth inſenſibly impair evry day, and I believe you <hi>feel</hi> it more; Therefore out of the well-wiſhes, and tru affections we bear unto <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſom of the moſt ſerious, and ſober'ſt Per<g ref="char:EOLhyphen"/>ſons of this place who are well ſeaſon'd in the World, and have ſtudied men under divers Climes, and convers'd alſo much with Heavenly Bodies, had lately a privat Junta, or meeting whereunto I was admitted for one, and two of us had bin in <hi>England</hi> where we receiv'd ſundry free Civilities; Our main buſineſs was to diſcourſe, and deſcant upon theſe ſad confuſions, &amp; calamitous condition wherin <hi>England</hi> with the adjoyning Kingdoms are at preſent involv'd, and what might extricat Her out of this laberinth of Diſtractions, and reduce Her to a ſetled Goverment; Having long canvas'd the buſineſs, and banded arguments <hi>pro &amp; con</hi> with much earneſtneſs, all our opinions did concenter at laſt in this point, That there was no probable way under Heaven to ſettle a faſt, and firm Go<g ref="char:EOLhyphen"/>vernment among you, then for the Men that are now upon the Stage of power to make a ſpeedy ap<g ref="char:EOLhyphen"/>plication to their own King, their own Liege Lord and Soverain, whom God, and Nature hath put over them; Let them beat their brains, ſcrue up their witts, and put all the Policy they have upon the tenterhooks as farr as poſſibly they can, yet they will never be able to eſtabliſh a durable ſtanding Government otherwiſe, They do but
+<pb n="6" facs="tcp:119314:4"/>
+               <!-- PDF PAGE 75 -->dance in a circle all this while, for the Goverment will turn at laſt to the ſame point it was before, <hi>viz.</hi> to <hi>Monarchy,</hi> and this King will be reſtored to his Royal Inheritances Maugre all the Cacodae<g ref="char:EOLhyphen"/>mons of Hell: Our Aſtrologers here ſpecially the famous <hi>Antonio Fiſelli</hi> hath had notes to look into the horoſcope of his Nativity, and what predicti<g ref="char:EOLhyphen"/>ons hee hath made hitherto of him have prov'd tru to my knowledg, Hee now confidently averrs, with the concurrence of the reſt, that the aſpect of all the ſtarrs, and conjunction of the Planetts much favour him the next two yeers; <hi>Nam Medium caeli in Geni<g ref="char:EOLhyphen"/>tura Caroli ſecundi Regis Angliae juxta axiomata Aſtrolo<g ref="char:EOLhyphen"/>giae Genethliacae dirigitur ad radios Sextiles Lunae</hi> Anno Dom. 1660. <hi>&amp; ſignificat acceſſum ad Dominium,</hi> For the <hi>Medium caeli</hi> in the Geniture of Charles the ſe<g ref="char:EOLhyphen"/>cond according to the axiomes of Genethliacall A<g ref="char:EOLhyphen"/>ſtrology is directed to the Sextile rayes of the Moon and ſignifies an acceſſe to Dominion. Add herun<g ref="char:EOLhyphen"/>to that a moſt lucky conjunction followes the ſame yeer, in the very Centre of the ſaid Kings horo<g ref="char:EOLhyphen"/>ſcope betwixt <hi>Jupiter</hi> &amp; <hi>Sol</hi> in the month of <hi>September.</hi>
+            </p>
+            <p>When I was employed by this State in <hi>Paris</hi> not many yeers agoe, I had occaſion to make my addreſſe to your young King, and when I obſerv'd his Phyſiognomy, and the Lineaments of his face, I ſeem'd to diſcern in it ſomthing extraordinary a<g ref="char:EOLhyphen"/>bove vulgar countenances, &amp; that he carried a Ma<g ref="char:EOLhyphen"/>jeſty in his very looks, and noting beſides the good<g ref="char:EOLhyphen"/>ly procerity, and conſtitution of his body he ſeem'd to be cut out for a King.</p>
+            <p>Now, in point of extraction, and linage it can<g ref="char:EOLhyphen"/>not
+<pb n="7" facs="tcp:119314:4"/>
+               <!-- PDF PAGE 75 -->bee denied but he is one of the greateſt born Princes that ever was in the world, for whereas his Gran-Father, and Father were allied only if you regard Forren Conſanguinity, to the Houſe of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> &amp; the <hi>Guyſes,</hi> this King bears in his veins not only that bloud, but alſo the blouds of all the great Princes of Chriſtendom, being neerly linked to the Houſe of <hi>Bourbon</hi> and <hi>France,</hi> to the Houſe of <hi>Au<g ref="char:EOLhyphen"/>ſtria,</hi> and conſequently to the <hi>Emperour,</hi> and <hi>Spaine,</hi> as alſo to the Duke of <hi>Savoy,</hi> and our Gran-Duke: Moreover he is neerly allied to all the greateſt Princes of <hi>Germany,</hi> as the <hi>Saxe, Brandenburg, Bava<g ref="char:EOLhyphen"/>ria,</hi> the <hi>Palſgrave,</hi> &amp; to the Duke of <hi>Lorain</hi> who de<g ref="char:EOLhyphen"/>ſcends in the directeſt line from <hi>Charlemain;</hi> Add hereunto that the young Prince of <hi>Orenge,</hi> is his Nephew, and which is conſiderable hee is a pure <hi>Engliſhman</hi> born, whereas your two former Kings were Forreners. The <hi>Queen</hi> his mother is of as glo<g ref="char:EOLhyphen"/>rious an extraction, which makes me admire the frontleſſe impudence of ſom of your poor Pamphle<g ref="char:EOLhyphen"/>tors who call her ever and anon the <hi>Little Queen</hi> notwithſtanding that the world knowes Her to bee the Daughter of Henry the <hi>Great,</hi> and Queen of <hi>Great</hi> Britain, which Title and Character is indeli<g ref="char:EOLhyphen"/>ble, and muſt die with Her.</p>
+            <p>Hereunto may be adjoyn'd, that this young King is now mounted to the Meridian of his Age, and maturity of judgment to govern, and doubtleſſe hee is like to make a rare Governour, having this ad<g ref="char:EOLhyphen"/>vantage of all other Soverain Princes in the world to have been bredd up in the Schoole of Affliction ſo long, to have Travell'd ſo many ſtrange Coun<g ref="char:EOLhyphen"/>treys,
+<pb n="8" facs="tcp:119314:5"/>
+               <!-- PDF PAGE 76 -->and obſerved the humours of ſo many Nations.</p>
+            <p>But to come to the Cardinal point of our Com<g ref="char:EOLhyphen"/>munication, after divers debates, &amp; alterations how <hi>England</hi> might be brought to a ſtable condition of tranquility &amp; perfect peace, to her former luſtre, and glory, the final reſult of all, ended in this, that ther was no other imaginable means to do it then for you to make a timely and fitting humble addreſs unto your own King, and without queſtion it is in his power to grant you ſuch an abſolut pardon, ſuch an abolition of all things paſs'd, ſuch a gracious Amneſtia, ſuch Royall conceſſions that may extend to the ſecurity of every perſon for the future that was engaged in theſe your revolutions, both touch<g ref="char:EOLhyphen"/>ing his life and fortunes; Unleſſe their guilt of conſcience be ſuch that like <hi>Cain</hi> or <hi>Judas</hi> they think their Sin is greater then can be forgiven them.</p>
+            <p>Now the <hi>mode</hi> of your application to <hi>Him</hi> may avail much, for if you chopp Logique with him too farr, and ſtand upon Puntillios, and too rigid termes, if you ſhew your ſelfs full of feares, jealou<g ref="char:EOLhyphen"/>ſies, and diſtruſts it will intangle, and quite mart the buſineſſe, for in a Soverain Prince ther muſt be an <hi>Implicit,</hi> unavoidable neceſſary truſt repos'd by his peeple which all the Laws that mans brain can poſſibly invent cannot provide againſt; Therfore if you proceed in a frank, and confident tru Engliſh way you may work upon his affections more pow<g ref="char:EOLhyphen"/>erfully, and overcome him ſooner ſo, then by any outward Arms, This way will make ſuch tender impreſſions upon him that he will grant more then you can poſſibly expect.</p>
+            <pb n="9" facs="tcp:119314:5"/>
+            <!-- PDF PAGE 76 -->
+            <p>Som Forein Hiſtorians as the French <hi>Comines,</hi> and our <hi>Guicciardin</hi> do cry up the Engliſh Nation for u<g ref="char:EOLhyphen"/>ſing to <hi>love</hi> their King in a more intenſe degree then other peeple, and to regard his honor in a higher ſtrain, to ſupport which they have bin alwayes ſo ready, and cheerful both with their <hi>perſons</hi> and <hi>purſes;</hi> Ther is now a fair opportunity offer'd to rake up the embers of theſe old affections, and to recover the Reputation of tru Engliſhmen; Ther is no peeple but may ſomtimes ſtand in their own light, go aſtray, and err, for Error was one of the firſt frailties that were entayl'd upon Man (and his poſterity) as ſoon as he was thruſt out of <hi>Paradis;</hi> 'Tis a human thing to err, but to perſevere in an error is diaboli<g ref="char:EOLhyphen"/>cal; You ſhall do well and wiſely to follow the ex<g ref="char:EOLhyphen"/>ample of the Spaniſh Mule, who out of a kind of wantoneſs being gone out of the high beaten road into a by path, which led her to a dirty narrow lane full of pitts and holes, at laſt ſhe came to the top of a huge hideous Rock where ſhe could go no farther, for before her ther was inevitable deſtructi<g ref="char:EOLhyphen"/>on, and the lane was ſo narrow that ſhe could not turn her body back, therupon in this extremity ſhe put one foot gently after another, and Crablike went backward untill ſhe came again to the common road; This muſt be your courſe, by a gentle retrogra<g ref="char:EOLhyphen"/>dation to come into the <hi>Kings</hi> high road again, and there is no queſtion but He will meet you more than three parts of the way, If you do not, truly in our opinions you will precipitat your ſelfs down a Rock of inevitable deſtruction; For Heaven &amp; Earth are conſpir'd to reſtore Him, and though all the Spirits of the Air ſhold joyn with you, you ſhall not be able
+<pb n="10" facs="tcp:119314:6"/>
+               <!-- PDF PAGE 77 -->to oppoſe it. I preſume you are not ignorant how the two great Monarks of <hi>Spain</hi> and <hi>France</hi> (which may be ſaid to be the main Poles wheron <hi>Europe</hi> doth move) have comprehended him within the private capitulations of peace, The Emperour hath promi<g ref="char:EOLhyphen"/>ſed to wed his quarrel, and there is no Prince or State in Chriſtendom but wold gladly reach a frend<g ref="char:EOLhyphen"/>ly hand to reſtore him, being depriv'd of his birth<g ref="char:EOLhyphen"/>right, and his Royal <hi>indubitable</hi> Inheritance (as you your ſelfs confeſſe) for obſerving the fifth Com<g ref="char:EOLhyphen"/>mandement, for obeying his Father and Mother; From which Birthright he may be ſaid to have bin thruſt out when he was in the ſtate of <hi>Innocency,</hi> be<g ref="char:EOLhyphen"/>ing but in a manner a Child, and very young then.</p>
+            <p>Now touching your ſelfs I will not flatter you, but plainly tell you that you have not one frend any where beyond the Seas, nay your great Confede<g ref="char:EOLhyphen"/>rate the <hi>Swed</hi> (as I had good intelligence) could upbraid one of your Ambaſſadors that are now there, that <hi>He had not waſhed his hands clean ſince they had bin embrued in his Princ's bloud.</hi>
+            </p>
+            <p>The time that I ſojourn'd in <hi>England</hi> I was curi<g ref="char:EOLhyphen"/>ous to read your Annals, and to make ſom inſpecti<g ref="char:EOLhyphen"/>ons into your Laws, and Method of Government, as alſo into the Genius of the peeple, and I find there is no ſpecies of Government that ſuits better with the nature of the Inhabitants, the quality of the Clime, and relates more directly to the civil conſti<g ref="char:EOLhyphen"/>tutions, Laws, and Cuſtoms of the Land then <hi>Mo<g ref="char:EOLhyphen"/>narchal;</hi> The Ile of <hi>Great Britain</hi> hath bin allways a Royal Iland from her very Creation, from her Infancy, ſhe may be ſaid to have worn a Crown in her Cradle, and although ſhe had four or five Revo<g ref="char:EOLhyphen"/>lutions
+<pb n="11" facs="tcp:119314:6"/>
+               <!-- PDF PAGE 77 -->and changes of Maſters, yet ſhe ſtill continued Royal, whereunto alludes a ſaying that I obſerv'd in your old Records, <hi>Britannia ab initio mundi ſemper fuit Regia, &amp; Regimen Illius ſimile illi caelorum: Great Britain</hi> hath bin from the beginning of the World <hi>Royal,</hi> and her Government like that of the Heavens.</p>
+            <p>Therfore, all theſe premiſes being weighed in the balance of tru judgment you ſhall do well, and wiſely to recollect your ſelfs, and call in your hopeful young King, whoſe Title your conſciences do acknowledg to be unqueſtionable, otherwiſe it is not only improbable but impoſſible for <hi>England</hi> to be <hi>Herſelf</hi> again, and to be ſettled in any ſtable Government which may reach to poſterity; you may wind up your wits as high as you can, you may conſult with your firſt, ſecond, and third thoughts, but you will never be able to ſettle a fix'd Goverment, you will be ſtill at a loſſe, your Deputies will be like a skeyn of ravell'd threed, you will be in a laberinth of confuſions, and the end of one, will be ſtill the beginning of another.</p>
+            <p>To conclude, the current &amp; concurrent opinion of all Miniſters of State here both <hi>Forren</hi> and <hi>Florentine</hi> is, that if you do not make a timely application to your King, you will have all the Princes of Chriſtendome about your ears, and what a ſad calamitous Country, what an Akeldama will <hi>England</hi> be then? Therfore if ther be a tru patriot, and publick ſoul amongſt you, if ther be ever any drops of tru <hi>Engliſh</hi> bloud running in your veins, or the leaſt ſpark of national fire &amp; affections glowing in your boſomes toward your own dear Country, pre<g ref="char:EOLhyphen"/>vent theſe imminent dangers, and invite your King by diſcreet and moderat propoſals; The gallant <hi>Samnit</hi> General could tell the <hi>Romans</hi> who had over power'd them, that if they gave <hi>them</hi> eaſy and gentle capitula<g ref="char:EOLhyphen"/>tions they wold perform them, but if they wold tye
+<pb n="12" facs="tcp:119314:7"/>
+               <!-- PDF PAGE 78 -->them to too high and ſtrict terms, they wold obſerve them no longer then they cold have opportunity to break them.</p>
+            <p>Touching the affairs of <hi>Italy,</hi> we are like to have a general bleſſed peace this ſide the <hi>Alpes,</hi> and <hi>Lombardy</hi> who hath bin ſo pittifully haraſs'd a long time, and hath had her face ſo often ſcratch'd, is in a fair way to recover her former beuty; <hi>Signor Giovanni Palavicino,</hi> and <hi>D. Lorenzo Minuccio</hi> convey their moſt affectionat reſpects unto you, and ſo doth</p>
+            <closer>
+               <signed>Your Entire, and Faithful Servant. <hi>F. P.</hi>
+               </signed>
+               <dateline>Florence <date>
+                     <hi>this</hi> 12th, <hi>of</hi> Octob. 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119314:7"/>
+            <!-- PDF PAGE 78 -->
+         </div>
+      </body>
+   </text>
+</TEI>
